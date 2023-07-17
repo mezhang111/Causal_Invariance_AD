@@ -1,0 +1,7 @@
+.idea/
+data/
+tmp/
+results/
+configs
+*.DS_Store
+*__pycache__
